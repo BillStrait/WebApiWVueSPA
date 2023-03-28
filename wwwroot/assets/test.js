@@ -1,0 +1,1 @@
+﻿console.log("Hi, this is a file in a different directory and it loaded.");
